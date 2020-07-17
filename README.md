@@ -6,11 +6,28 @@
 - :brazil: My name is Roger Monteiro and I'm from Brazil
 - :office: I’m currently working as Computer Vision Developer at [Depper Systems](https://www.deepersystems.com/)
 
+-  :smile_cat: Feel free to connect in LinkedIn
+
 ### Skills:
 
 - :snake: Python
 - :penguin: Linux (it's my main system and I'm also have admin experience)
--  :whale: Docker
+- :whale: Docker
+
+### Things I like:
+
+- :rocket: Sci-fi
+- :video_game: Games
+- :closed_book: Read (Yeah, sci-fi)
+- :new_moon_with_face: Memes
+- :coffee: Coffee (obvious)
+
+### Other Skills:
+
+- :computer: Unity 3D
+- :art: Blender
+
+I have also written some articles in the area of machine learning. You can find them on my linkedin profile :cake:
 
 <!--
 **kerenskybr/kerenskybr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
