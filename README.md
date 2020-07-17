@@ -4,7 +4,7 @@
 <img src="https://i.redd.it/2l4p81b1pxp41.jpg" width="400">
 
 - :brazil: My name is Roger Monteiro and I'm from Brazil
-- :office: I’m currently working as Computer Vision Developer at [Depper Systems](https://www.deepersystems.com/)
+- :office: I’m currently working as Computer Vision Developer at [Deeper Systems](https://www.deepersystems.com/)
 
 -  :smile_cat: Feel free to connect in LinkedIn
 
