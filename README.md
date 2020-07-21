@@ -13,7 +13,8 @@
 ### Skills:
 
 - :snake: Python
-- :penguin: Linux (it's my main system and I'm also have admin experience)
+- :penguin: Linux (it's my main system and I'm also have some admin experience)
+- :minidisc: OpenCV
 - :whale: Docker
 
 ### Things I like:
