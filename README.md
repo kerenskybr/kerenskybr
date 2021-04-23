@@ -4,8 +4,9 @@
 <!--
 <img src="https://i.redd.it/2l4p81b1pxp41.jpg" width="400">
 -->
+<!--
 <img src="https://i.pinimg.com/originals/5a/cf/c2/5acfc296101e82b8dca3031fb3512121.png" width="600">
-
+-->
 
 - :brazil: My name is Roger Monteiro and I'm from Brazil
 - :office: I’m currently working as Computer Vision Developer at [Deeper Systems](https://www.deepersystems.com/)
