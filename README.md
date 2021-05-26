@@ -10,7 +10,7 @@
 
 - :brazil: My name is Roger Monteiro and I'm from Brazil
 - :office: I’m currently working as Computer Vision Developer at [Deeper Systems](https://www.deepersystems.com/)
-- :mortar_board: I have a degree in System Analysis and I’m currently doing a post graduation in Data Science
+- :mortar_board: I have a degree in System Analysis and a post graduation in Data Science
 
 -  :smile_cat: Feel free to connect with me through LinkedIn
 
