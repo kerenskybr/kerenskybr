@@ -23,6 +23,9 @@
 - :penguin: Linux (it's my main system and I'm also have some admin experience)
 - :minidisc: OpenCV
 - :whale: Docker
+- :computer: Unity 3D
+- :art: Blender
+<!--
 
 ### Things I like:
 
@@ -33,9 +36,8 @@
 - :coffee: Coffee (obvious)
 
 ### Other Skills:
+-->
 
-- :computer: Unity 3D
-- :art: Blender
 
 I have also written some articles in the area of machine learning. You can find them on my linkedin profile :cake:
 
