@@ -15,7 +15,7 @@
 - :office: I’m currently working as Computer Vision Developer at [Deeper Systems](https://www.deepersystems.com/)
 - :mortar_board: I have a degree in System Analysis and a post graduation in Data Science
 
--  :smile_cat: Feel free to connect with me through LinkedIn(https://www.linkedin.com/in/roger-monteiro/)
+-  :smile_cat: Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/roger-monteiro/)
 
 ### Skills:
 
