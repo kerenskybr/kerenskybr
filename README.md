@@ -1,7 +1,10 @@
 ### Hi there, welcome to my GitHub profile :octocat:
 <a href="https://www.linkedin.com/in/roger-monteiro/" target="_blank">
-<img src="https://pics.me.me/looking-at-you-python-72481171.png" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+<img src="https://user-images.githubusercontent.com/28299607/137967084-731825a6-8a51-4e9c-bd4a-f49a2902702a.gif" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+
 <!--
+
+<img src="https://pics.me.me/looking-at-you-python-72481171.png" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
 <img src="https://i.redd.it/2l4p81b1pxp41.jpg" width="400">
 -->
 <!--
