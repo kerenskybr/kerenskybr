@@ -1,6 +1,7 @@
 ### Hi there, welcome to my GitHub profile :octocat:
 <a href="https://www.linkedin.com/in/roger-monteiro/" target="_blank">
-<img src="https://user-images.githubusercontent.com/28299607/137967084-731825a6-8a51-4e9c-bd4a-f49a2902702a.gif" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+<img src="https://user-images.githubusercontent.com/28299607/139309325-ae78f2fe-f864-46c8-9c98-a53b3abd019b.gif" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
+ 
  <!--
 <img src="https://user-images.githubusercontent.com/28299607/139309171-b75613a9-0646-4a5a-8326-58f13042c41e.gif" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>
 
