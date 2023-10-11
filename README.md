@@ -15,7 +15,7 @@
 -->
 
 - :brazil: My name is Roger Monteiro and I'm from Brazil
-- :office: I’m currently working as Python Developer at [Deeper Systems](https://www.deepersystems.com/)
+- :office: I’m currently working as Sysadmin at [Deeper Systems](https://www.deepersystems.com/)
 - :mortar_board: I have a degree in System Analysis and a post graduation in Data Science
 
 -  :smile_cat: Feel free to connect with me through [LinkedIn](https://www.linkedin.com/in/roger-monteiro/)
