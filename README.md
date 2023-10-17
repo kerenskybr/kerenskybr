@@ -23,10 +23,12 @@
 ### Skills:
 
 - :snake: Python
-- :penguin: Linux (it's my main system and I'm also have some admin experience)
+- :leaves: MongoDB
+- :penguin: Linux
 - :minidisc: OpenCV
 - :whale: Docker
 - :computer: Unity 3D
+- :video_game: Godot
 - :art: Blender
 <!--
 
