@@ -44,7 +44,7 @@
 -->
 
 
-I have also written some articles in the area of machine learning. You can find them on my linkedin profile :cake:
+I have also written some articles in the field of machine learning. You can find them on my linkedin profile :cake:
 
 
 ![Visitor Count](https://profile-counter.glitch.me/kerenskybr/count.svg)
